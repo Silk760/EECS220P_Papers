@@ -118,6 +118,6 @@ https://people.csail.mit.edu/anurag_m/papers/2017.scnn.isca.pdf
 
 https://www.cs.virginia.edu/~smk9u/CS6501F16/p243-han.pdf
 
-30)- http://csl.stanford.edu/~christos/publications/2010.efficiency.isca.pdf
+30)- Understanding Sources of Inefficiency  in General-Purpose Chips
 
 http://csl.stanford.edu/~christos/publications/2010.efficiency.isca.pdf
